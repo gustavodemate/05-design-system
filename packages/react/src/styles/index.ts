@@ -1,4 +1,4 @@
-import { colors, fonts, fontSizes, fontWeights, lineHeights, radii, space } from "@ignite-ui/tokens";
+import { colors, fonts, fontSizes, fontWeights, lineHeights, radii, space } from "@demate-ignite-ui/tokens";
 import { createStitches, defaultThemeMap, DefaultThemeMap } from "@stitches/react";
 
 export const {

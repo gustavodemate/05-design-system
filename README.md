@@ -2,7 +2,7 @@
 
 Criação do design system desenvolvido no módulo 5 do curso Ignite - Rocketseat  
 
-Nesse projeto foi utilizado  
+Nesse projeto foi utilizado:  
 Storybook  
 Stitches  
 Radix  
